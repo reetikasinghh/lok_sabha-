@@ -21,6 +21,10 @@ Determines which party or alliance has enough seats to form a government and pre
 Interactive Filters
 Filter results by state using a sidebar dropdown.
 
+
+https://github.com/reetikasinghh/lok_sabha-/blob/main/Screenshot%202025-09-23%20at%2021.34.14.png?raw=true![Uploading image.png…]()
+
+
 Technologies Used
 Python 3.x
 Libraries:
