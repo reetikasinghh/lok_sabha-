@@ -22,7 +22,7 @@ Interactive Filters
 Filter results by state using a sidebar dropdown.
 
 
-https://github.com/reetikasinghh/lok_sabha-/blob/main/Screenshot%202025-09-23%20at%2021.34.14.png?raw=true![Uploading image.png…]()
+
 
 
 Technologies Used
@@ -41,6 +41,9 @@ party_name – Political party of the candidate
 votes – Total votes received
 rank – Candidate rank in the constituency (1 = winner)
 Note: Ensure the dataset is cleaned and contains only valid numeric vote counts.
+
+<img width="1134" height="695" alt="image" src="https://github.com/user-attachments/assets/c6c467c9-b5c4-4b88-abdd-f101627ab42c" />
+
 
 
 Future Enhancements
